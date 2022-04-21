@@ -1,4 +1,4 @@
-Week 2: Java - Exception
+# Week 2: Java - Exception
 
 After reading the following articles, try given examples
 
